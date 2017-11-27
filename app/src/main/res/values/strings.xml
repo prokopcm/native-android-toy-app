@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Native Android Toy App</string>
+    <string name="nav_text">Hello</string>
+    <string name="nav_audio">Audio</string>
+    <string name="nav_graphics">Graphics</string>
+    <string name="title_home">Hello, world</string>
+    <string name="title_audio_record">Record Audio</string>
+    <string name="title_audio_playback">Playback Recorded Audio</string>
+    <string name="title_audio_play_mp3">Play .mp3</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_audio">Audio Tests</string>
+    <string name="title_activity_graphics">Graphics Tests</string>
+    <string name="hello_api_label">The API says this application\'s favorite user is:</string>
+</resources>
